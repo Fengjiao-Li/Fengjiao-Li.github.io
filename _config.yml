@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Fengjiao Li"
-  avatar           : "Fengjiao_headshot.JPG"
+  avatar           : "profile.jpg"
   bio              : "PhD student, Department of Computer Science, Virginia Tech"
-  location         : "2202 Kraft Drive\\ Blacksburg, VA 24060, USA"
+  location         : "2202 Kraft Drive <br> Blacksburg, VA 24060, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
