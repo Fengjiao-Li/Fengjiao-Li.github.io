@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fengjiao Li / Virginia Tech"
+title                    : "Fengjiao Li/Virginia Tech"
 title_separator          : "-"
 name                     : &name "Fengjiao Li"
 description              : &description "personal description"
